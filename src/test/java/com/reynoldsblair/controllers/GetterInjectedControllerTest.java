@@ -1,13 +1,13 @@
-package guru.springframework.controllers;
+package com.reynoldsblair.controllers;
 
-import guru.springframework.services.GreetingServiceImpl;
+import com.reynoldsblair.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by jt on 5/24/17.
+ * Created by ed.blair on 4/15/19.
  */
 public class GetterInjectedControllerTest {
 

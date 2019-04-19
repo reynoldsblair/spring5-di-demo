@@ -1,9 +1,9 @@
 package com.reynoldsblair;
 
-import guru.springframework.controllers.ConstructorInjectedController;
-import guru.springframework.controllers.GetterInjectedController;
-import guru.springframework.controllers.MyController;
-import guru.springframework.controllers.PropertyInjectedController;
+import com.reynoldsblair.controllers.ConstructorInjectedController;
+import com.reynoldsblair.controllers.GetterInjectedController;
+import com.reynoldsblair.controllers.MyController;
+import com.reynoldsblair.controllers.PropertyInjectedController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

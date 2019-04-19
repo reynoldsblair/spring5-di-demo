@@ -1,9 +1,9 @@
-package guru.springframework.services;
+package com.reynoldsblair.services;
 
 import org.springframework.stereotype.Component;
 
 /**
- * Created by jt on 5/24/17.
+ * Created by ed.blair on 4/15/19.
  */
 @Component
 public class GreetingRepositoryImpl implements GreetingRepository {

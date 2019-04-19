@@ -1,10 +1,10 @@
-package guru.springframework.controllers;
+package com.reynoldsblair.controllers;
 
-import guru.springframework.services.GreetingService;
+import com.reynoldsblair.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 /**
- * Created by jt on 5/23/17.
+ * Created by ed.blair on 4/15/19.
  */
 @Controller
 public class MyController {
