@@ -1,6 +1,6 @@
 package com.reynoldsblair.controllers;
 
-import com.reynoldsblair.services.GreetingService;
+import com.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 

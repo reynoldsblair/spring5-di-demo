@@ -1,6 +1,6 @@
 package com.reynoldsblair.controllers;
 
-import com.reynoldsblair.services.GreetingServiceImpl;
+import com.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 

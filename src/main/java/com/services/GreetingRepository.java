@@ -1,4 +1,4 @@
-package com.reynoldsblair.services;
+package com.services;
 
 /**
  * Created by ed.blair on 4/15/19.
