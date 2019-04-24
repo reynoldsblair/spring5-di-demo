@@ -1,6 +1,6 @@
 package com.reynoldsblair.controllers;
 
-import com.services.GreetingService;
+import com.reynoldsblair.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 /**
